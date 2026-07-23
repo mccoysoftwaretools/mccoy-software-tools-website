@@ -1,3 +1,8 @@
+---
+title: Sequential Timer Disclaimer
+permalink: /sequential-timer/disclaimer/
+---
+
 # Disclaimer
 
 **Document version:** 1.0.0  
