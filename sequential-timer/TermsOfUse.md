@@ -1,3 +1,8 @@
+---
+title: Sequential Timer Terms of Use
+permalink: /sequential-timer/terms/
+---
+
 # Terms of Use
 
 **Document version:** 1.0.0  
