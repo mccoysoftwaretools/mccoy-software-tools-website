@@ -45,7 +45,7 @@ The App may change, lose compatibility, contain errors, or become unavailable. U
 
 ## Intellectual Property
 
-The App and its original content are owned by [INSERT OWNER] and protected by applicable law. Names and marks belonging to others remain the property of their respective owners.
+The App and its original content are owned by McCoy Software Tools and protected by applicable law. Names and marks belonging to others remain the property of their respective owners.
 
 ## Disclaimer of Warranties
 
