@@ -10,9 +10,10 @@ Sequential Timer is a desktop timing application developed by McCoy Software Too
 
 ## Legal and support
 
-- [Privacy Policy](./privacy/)
-- [Terms of Use](./terms/)
-- [Legal Information](./legal/)
+- [Privacy Policy](PrivacyPolicy.html)
+- [Terms of Use](TermsOfUse.html)
+- [Disclaimer](Disclaimer.html)
+- [Credits](Credits.html)
 - [Support](mailto:mccoysoftwaretools@gmail.com)
 
 ## Publisher
