@@ -1,3 +1,8 @@
+---
+title: Sequential Timer Privacy Policy
+permalink: /sequential-timer/privacy/
+---
+
 # Privacy Policy
 
 **Document version:** 1.0.0  
