@@ -1,3 +1,8 @@
+---
+title: Sequential Timer Credits
+permalink: /sequential-timer/credits/
+---
+
 # Credits
 
 **Document version:** 1.0.0  
