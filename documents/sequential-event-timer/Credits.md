@@ -35,4 +35,4 @@ The app’s original interface, timer workflow, configuration format, and bundle
 
 ## Trademarks
 
-All third-party product names, company names, logos, equipment names, and trademarks are the property of their respective owners. Their appearance does not imply sponsorship, endorsement, or affiliation.
+All third-party product names, organization names, logos, equipment names, and trademarks are the property of their respective owners. Their appearance does not imply sponsorship, endorsement, or affiliation.
