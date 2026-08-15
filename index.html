@@ -17,13 +17,14 @@
 
   <header class="site-header">
     <a class="header-logo" href="#top" aria-label="McCoy Software Tools home">
-      <img src="images/logo.png" alt="McCoy Software Tools LLC" />
+      <img src="images/logo_transparent.png" alt="McCoy Software Tools LLC" />
     </a>
 
     <nav class="nav" aria-label="Primary navigation">
       <a href="#apps">Apps</a>
       <a href="#about">About</a>
       <a href="#support">Support</a>
+      <a href="documents/">Documents</a>
     </nav>
 
     <a class="nav-cta" href="mailto:mccoysoftwaretools@gmail.com">Contact</a>
@@ -32,10 +33,10 @@
   <main id="top">
     <section class="hero shell">
       <div class="hero-copy reveal">
-        <div class="eyebrow"><span></span> Independent software studio</div>
-        <h1>Software built for<br><em>real-world work.</em></h1>
+        <div class="eyebrow"><span></span> Independent studio · Free tools, no subscriptions</div>
+        <h1>Free software built for<br><em>real-world work.</em></h1>
         <p>
-          Focused, practical applications designed around the people who actually use them—without the clutter, bloat, or unnecessary subscriptions.
+          Focused, practical applications designed around the people who actually use them. Every tool is free to use—without clutter, bloat, or unnecessary subscriptions.
         </p>
         <div class="hero-actions">
           <a class="button primary" href="#apps">Explore our apps</a>
@@ -101,15 +102,14 @@
           </div>
 
           <div class="store-row">
-            <a class="store-badge" href="https://apps.apple.com/us/app/do-calcs-buddy/id6749918102" target="_blank" rel="noopener noreferrer" aria-label="Download DO Calcs Buddy on the App Store">
-              <span class="store-icon apple">●</span>
-              <span><small>Download on the</small><strong>App Store</strong></span>
+            <a class="store-badge apple" href="https://apps.apple.com/us/app/do-calcs-buddy/id6749918102" target="_blank" rel="noopener noreferrer" aria-label="Download DO Calcs Buddy on the App Store">
+              <img src="images/download-on-app-store.svg" alt="Download on the App Store" />
             </a>
-            <a class="store-badge" href="https://play.google.com/store/apps/details?id=com.mccoysoftwaretools.docalcsbuddy" target="_blank" rel="noopener noreferrer" aria-label="Get DO Calcs Buddy on Google Play">
-              <span class="store-icon play">▶</span>
-              <span><small>GET IT ON</small><strong>Google Play</strong></span>
+            <a class="store-badge google" href="https://play.google.com/store/apps/details?id=com.mccoysoftwaretools.docalcsbuddy" target="_blank" rel="noopener noreferrer" aria-label="Get DO Calcs Buddy on Google Play">
+              <img src="images/get-it-on-google-play.png" alt="Get it on Google Play" />
             </a>
           </div>
+          <a class="document-link" href="documents/#do-calcs-buddy">Privacy, terms &amp; app documents <span aria-hidden="true">&rarr;</span></a>
         </div>
 
         <div class="app-showcase" aria-hidden="true">
@@ -123,13 +123,36 @@
         </div>
       </article>
 
-      <div class="coming-card reveal">
-        <div>
-          <span class="status-pill muted-pill">In development</span>
-          <h3>More practical tools are on the way.</h3>
-          <p>McCoy Software Tools is continuing to develop focused applications for public safety workflows and everyday use.</p>
-        </div>
-        <div class="coming-symbol">+</div>
+      <div class="upcoming-heading reveal">
+        <div class="eyebrow"><span></span> Coming next</div>
+        <h3>More focused tools, nearly ready.</h3>
+        <p>Each product stays small, purposeful, and designed around the job it needs to do.</p>
+      </div>
+
+      <div class="upcoming-grid">
+        <article class="product-preview reveal">
+          <div class="preview-mark" aria-hidden="true">PM</div>
+          <span class="status-pill muted-pill">Nearing release</span>
+          <h3>Preplan Markup</h3>
+          <p>A focused workspace for turning preplan imagery into clear, useful operational markups.</p>
+          <div class="preview-links"><span>Product page coming soon</span><a href="documents/#preplan-markup">Documents <span aria-hidden="true">&rarr;</span></a></div>
+        </article>
+
+        <article class="product-preview reveal delayed">
+          <div class="preview-mark timer-mark" aria-hidden="true">SET</div>
+          <span class="status-pill muted-pill">Nearing release</span>
+          <h3>Elapsed Events Sequence Timer</h3>
+          <p>A straightforward way to run, track, and review a sequence of timed events.</p>
+          <div class="preview-links"><span>Product page coming soon</span><a href="documents/#sequential-event-timer">Documents <span aria-hidden="true">&rarr;</span></a></div>
+        </article>
+
+        <article class="product-preview reveal">
+          <div class="preview-mark glow-mark" aria-hidden="true">WG</div>
+          <span class="status-pill muted-pill">Nearing release</span>
+          <h3>WiggleGlow</h3>
+          <p>A playful utility built to add a little more motion, light, and personality to the moment.</p>
+          <div class="preview-links"><span>Product page coming soon</span><a href="documents/#wiggleglow">Documents <span aria-hidden="true">&rarr;</span></a></div>
+        </article>
       </div>
     </section>
 
@@ -168,9 +191,11 @@
       <a href="#apps">Apps</a>
       <a href="#about">About</a>
       <a href="#support">Support</a>
+      <a href="documents/">Documents</a>
       <a href="mailto:mccoysoftwaretools@gmail.com">Contact</a>
     </div>
     <div class="footer-bottom">© <span id="year"></span> McCoy Software Tools LLC. All rights reserved.</div>
+    <p class="store-trademarks">Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries and regions. App Store is a service mark of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.</p>
   </footer>
 
   <script src="script.js"></script>
